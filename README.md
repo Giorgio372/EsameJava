@@ -1,7 +1,7 @@
 # Creazione tabella
 1. creo manualmente il file database.db
 2. creo manualmente il file crea_tabella.sql
-3. inserisco il codice al suo interno ed eseguo il comando dallo script di sqlile nel command promt
+3. inserisco il codice al suo interno ed eseguo il comando dallo script di sqlite nel command promt
 ## Il file crea_tabella.sql contiene il codice:
 ```sql
 CREATE TABLE IF NOT EXISTS compagni (
@@ -13,7 +13,7 @@ EMAIL TEXT);
 # Inserimento dati
 1. creo manualmente il file inserisci_dati.sql
 2. inserisco il codice al suo interno
-3. eseguo il comando dallo script di sqlile nel command promt
+3. eseguo il comando dallo script di sqlite nel command promt
 
 ## Il file inserisci_dati.sql contiene il codice:
 ```sql
